@@ -1,0 +1,15 @@
+.card{
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column; 
+    gap: 20px;
+    
+}
+
+.title{
+    text-align: center;
+    color: #000;
+}
